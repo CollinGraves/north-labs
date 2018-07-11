@@ -7,7 +7,7 @@ const Banner = (props) => (
                 <h1>Welcome to North Labs</h1>
             </header>
             <div className="content">
-                <p>We help companies better utilize Amazon Web Services through 24/7 managed services and continuous optimization.</p>
+                <p>We help companies win big on Amazon Web Services through 24/7 managed services and continuous optimization.</p>
             </div>
         </div>
     </section>
